@@ -1,0 +1,469 @@
+{
+    "Timestamp": "2018-04-02T11:49:17.936Z",
+    "Ack": "Success",
+    "Version": "1053",
+    "Build": "E1053_CORE_APISELLING_18659417_R1",
+    "PaginationResult": {
+        "TotalNumberOfEntries": "65"
+    },
+    "ItemArray": {
+        "Item": [
+            {
+                "ItemID": "322921684940",
+                "ListingDetails": {
+                    "StartTime": "2017-12-04T13:22:21.000Z",
+                    "EndTime": "2018-04-03T13:22:21.000Z"
+                }
+            },
+            {
+                "ItemID": "222743418543",
+                "ListingDetails": {
+                    "StartTime": "2017-12-04T13:30:27.000Z",
+                    "EndTime": "2018-04-03T13:30:27.000Z"
+                }
+            },
+            {
+                "ItemID": "222743451604",
+                "ListingDetails": {
+                    "StartTime": "2017-12-04T14:11:18.000Z",
+                    "EndTime": "2018-04-03T14:11:18.000Z"
+                }
+            },
+            {
+                "ItemID": "322984468359",
+                "ListingDetails": {
+                    "StartTime": "2018-01-07T11:22:55.000Z",
+                    "EndTime": "2018-04-07T11:22:55.000Z"
+                }
+            },
+            {
+                "ItemID": "222786221493",
+                "ListingDetails": {
+                    "StartTime": "2018-01-07T11:30:04.000Z",
+                    "EndTime": "2018-04-07T11:30:04.000Z"
+                }
+            },
+            {
+                "ItemID": "322984485622",
+                "ListingDetails": {
+                    "StartTime": "2018-01-07T11:46:05.000Z",
+                    "EndTime": "2018-04-07T11:46:05.000Z"
+                }
+            },
+            {
+                "ItemID": "323057131622",
+                "ListingDetails": {
+                    "StartTime": "2018-02-06T13:27:18.000Z",
+                    "EndTime": "2018-04-07T13:27:18.000Z"
+                }
+            },
+            {
+                "ItemID": "222752094574",
+                "ListingDetails": {
+                    "StartTime": "2017-12-11T22:15:27.000Z",
+                    "EndTime": "2018-04-10T22:15:27.000Z"
+                }
+            },
+            {
+                "ItemID": "322935129745",
+                "ListingDetails": {
+                    "StartTime": "2017-12-11T22:30:59.000Z",
+                    "EndTime": "2018-04-10T22:30:59.000Z"
+                }
+            },
+            {
+                "ItemID": "222752122559",
+                "ListingDetails": {
+                    "StartTime": "2017-12-11T22:42:49.000Z",
+                    "EndTime": "2018-04-10T22:42:49.000Z"
+                }
+            },
+            {
+                "ItemID": "322935825017",
+                "ListingDetails": {
+                    "StartTime": "2017-12-12T10:07:59.000Z",
+                    "EndTime": "2018-04-11T10:07:59.000Z"
+                }
+            },
+            {
+                "ItemID": "222752646096",
+                "ListingDetails": {
+                    "StartTime": "2017-12-12T10:20:01.000Z",
+                    "EndTime": "2018-04-11T10:20:01.000Z"
+                }
+            },
+            {
+                "ItemID": "322935865140",
+                "ListingDetails": {
+                    "StartTime": "2017-12-12T10:36:45.000Z",
+                    "EndTime": "2018-04-11T10:36:45.000Z"
+                }
+            },
+            {
+                "ItemID": "322936332604",
+                "ListingDetails": {
+                    "StartTime": "2017-12-12T14:04:48.000Z",
+                    "EndTime": "2018-04-11T14:04:48.000Z"
+                }
+            },
+            {
+                "ItemID": "322882636478",
+                "ListingDetails": {
+                    "StartTime": "2017-11-14T15:14:21.000Z",
+                    "EndTime": "2018-04-13T15:14:21.000Z"
+                }
+            },
+            {
+                "ItemID": "222719361926",
+                "ListingDetails": {
+                    "StartTime": "2017-11-14T15:29:13.000Z",
+                    "EndTime": "2018-04-13T15:29:13.000Z"
+                }
+            },
+            {
+                "ItemID": "322939575922",
+                "ListingDetails": {
+                    "StartTime": "2017-12-14T16:00:51.000Z",
+                    "EndTime": "2018-04-13T16:00:51.000Z"
+                }
+            },
+            {
+                "ItemID": "322882709604",
+                "ListingDetails": {
+                    "StartTime": "2017-11-14T16:03:29.000Z",
+                    "EndTime": "2018-04-13T16:03:29.000Z"
+                }
+            },
+            {
+                "ItemID": "222719427448",
+                "ListingDetails": {
+                    "StartTime": "2017-11-14T16:39:49.000Z",
+                    "EndTime": "2018-04-13T16:39:49.000Z"
+                }
+            },
+            {
+                "ItemID": "322885017249",
+                "ListingDetails": {
+                    "StartTime": "2017-11-15T15:05:21.000Z",
+                    "EndTime": "2018-04-14T15:05:21.000Z"
+                }
+            },
+            {
+                "ItemID": "222799705453",
+                "ListingDetails": {
+                    "StartTime": "2018-01-17T10:13:17.000Z",
+                    "EndTime": "2018-04-17T10:13:17.000Z"
+                }
+            },
+            {
+                "ItemID": "322895438684",
+                "ListingDetails": {
+                    "StartTime": "2017-11-21T11:14:35.000Z",
+                    "EndTime": "2018-04-20T11:14:35.000Z"
+                }
+            },
+            {
+                "ItemID": "222727726455",
+                "ListingDetails": {
+                    "StartTime": "2017-11-21T11:50:05.000Z",
+                    "EndTime": "2018-04-20T11:50:05.000Z"
+                }
+            },
+            {
+                "ItemID": "322896573934",
+                "ListingDetails": {
+                    "StartTime": "2017-11-21T22:40:48.000Z",
+                    "EndTime": "2018-04-20T22:40:48.000Z"
+                }
+            },
+            {
+                "ItemID": "222729077264",
+                "ListingDetails": {
+                    "StartTime": "2017-11-22T12:58:54.000Z",
+                    "EndTime": "2018-04-21T12:58:54.000Z"
+                }
+            },
+            {
+                "ItemID": "322953274479",
+                "ListingDetails": {
+                    "StartTime": "2017-12-22T19:28:50.000Z",
+                    "EndTime": "2018-04-21T19:28:50.000Z"
+                }
+            },
+            {
+                "ItemID": "222729687339",
+                "ListingDetails": {
+                    "StartTime": "2017-11-22T22:09:49.000Z",
+                    "EndTime": "2018-04-21T22:09:49.000Z"
+                }
+            },
+            {
+                "ItemID": "222807833709",
+                "ListingDetails": {
+                    "StartTime": "2018-01-23T14:44:25.000Z",
+                    "EndTime": "2018-04-23T14:44:25.000Z"
+                }
+            },
+            {
+                "ItemID": "323024350344",
+                "ListingDetails": {
+                    "StartTime": "2018-01-23T15:10:27.000Z",
+                    "EndTime": "2018-04-23T15:10:27.000Z"
+                }
+            },
+            {
+                "ItemID": "323094343907",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T03:51:32.000Z",
+                    "EndTime": "2018-04-24T03:51:32.000Z"
+                }
+            },
+            {
+                "ItemID": "323094344095",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T03:51:45.000Z",
+                    "EndTime": "2018-04-24T03:51:45.000Z"
+                }
+            },
+            {
+                "ItemID": "323094349102",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T03:59:27.000Z",
+                    "EndTime": "2018-04-24T03:59:27.000Z"
+                }
+            },
+            {
+                "ItemID": "222852088600",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T03:59:55.000Z",
+                    "EndTime": "2018-04-24T03:59:55.000Z"
+                }
+            },
+            {
+                "ItemID": "222852089308",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:00:39.000Z",
+                    "EndTime": "2018-04-24T04:00:39.000Z"
+                }
+            },
+            {
+                "ItemID": "323094352157",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:00:49.000Z",
+                    "EndTime": "2018-04-24T04:00:49.000Z"
+                }
+            },
+            {
+                "ItemID": "323094352282",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:01:00.000Z",
+                    "EndTime": "2018-04-24T04:01:00.000Z"
+                }
+            },
+            {
+                "ItemID": "222852089771",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:01:10.000Z",
+                    "EndTime": "2018-04-24T04:01:10.000Z"
+                }
+            },
+            {
+                "ItemID": "222852089869",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:01:20.000Z",
+                    "EndTime": "2018-04-24T04:01:20.000Z"
+                }
+            },
+            {
+                "ItemID": "323094352525",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:01:31.000Z",
+                    "EndTime": "2018-04-24T04:01:31.000Z"
+                }
+            },
+            {
+                "ItemID": "323094352613",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:01:41.000Z",
+                    "EndTime": "2018-04-24T04:01:41.000Z"
+                }
+            },
+            {
+                "ItemID": "222852090199",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:01:52.000Z",
+                    "EndTime": "2018-04-24T04:01:52.000Z"
+                }
+            },
+            {
+                "ItemID": "222852090267",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:02:01.000Z",
+                    "EndTime": "2018-04-24T04:02:01.000Z"
+                }
+            },
+            {
+                "ItemID": "323094352877",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:02:12.000Z",
+                    "EndTime": "2018-04-24T04:02:12.000Z"
+                }
+            },
+            {
+                "ItemID": "222852090410",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:02:21.000Z",
+                    "EndTime": "2018-04-24T04:02:21.000Z"
+                }
+            },
+            {
+                "ItemID": "222852090485",
+                "ListingDetails": {
+                    "StartTime": "2018-02-23T04:02:31.000Z",
+                    "EndTime": "2018-04-24T04:02:31.000Z"
+                }
+            },
+            {
+                "ItemID": "222853622950",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:49:46.000Z",
+                    "EndTime": "2018-04-25T03:49:46.000Z"
+                }
+            },
+            {
+                "ItemID": "222853623094",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:49:59.000Z",
+                    "EndTime": "2018-04-25T03:49:59.000Z"
+                }
+            },
+            {
+                "ItemID": "222853623286",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:50:12.000Z",
+                    "EndTime": "2018-04-25T03:50:12.000Z"
+                }
+            },
+            {
+                "ItemID": "222853623295",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:50:13.000Z",
+                    "EndTime": "2018-04-25T03:50:13.000Z"
+                }
+            },
+            {
+                "ItemID": "222853623387",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:50:22.000Z",
+                    "EndTime": "2018-04-25T03:50:22.000Z"
+                }
+            },
+            {
+                "ItemID": "222853623433",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:50:29.000Z",
+                    "EndTime": "2018-04-25T03:50:29.000Z"
+                }
+            },
+            {
+                "ItemID": "323096671750",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:50:39.000Z",
+                    "EndTime": "2018-04-25T03:50:39.000Z"
+                }
+            },
+            {
+                "ItemID": "222853623640",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:50:46.000Z",
+                    "EndTime": "2018-04-25T03:50:46.000Z"
+                }
+            },
+            {
+                "ItemID": "222853623833",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:50:59.000Z",
+                    "EndTime": "2018-04-25T03:50:59.000Z"
+                }
+            },
+            {
+                "ItemID": "323096671985",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T03:50:59.000Z",
+                    "EndTime": "2018-04-25T03:50:59.000Z"
+                }
+            },
+            {
+                "ItemID": "222853903954",
+                "ListingDetails": {
+                    "StartTime": "2018-02-24T09:49:31.000Z",
+                    "EndTime": "2018-04-25T09:49:31.000Z"
+                }
+            },
+            {
+                "ItemID": "322907337721",
+                "ListingDetails": {
+                    "StartTime": "2017-11-27T13:41:17.000Z",
+                    "EndTime": "2018-04-26T13:41:17.000Z"
+                }
+            },
+            {
+                "ItemID": "322909360130",
+                "ListingDetails": {
+                    "StartTime": "2017-11-28T14:49:31.000Z",
+                    "EndTime": "2018-04-27T14:49:31.000Z"
+                }
+            },
+            {
+                "ItemID": "222773262592",
+                "ListingDetails": {
+                    "StartTime": "2017-12-28T16:00:59.000Z",
+                    "EndTime": "2018-04-27T16:00:59.000Z"
+                }
+            },
+            {
+                "ItemID": "222773341441",
+                "ListingDetails": {
+                    "StartTime": "2017-12-28T17:10:36.000Z",
+                    "EndTime": "2018-04-27T17:10:36.000Z"
+                }
+            },
+            {
+                "ItemID": "222858621874",
+                "ListingDetails": {
+                    "StartTime": "2018-02-27T11:01:29.000Z",
+                    "EndTime": "2018-04-28T11:01:29.000Z"
+                }
+            },
+            {
+                "ItemID": "222737030177",
+                "ListingDetails": {
+                    "StartTime": "2017-11-29T11:04:55.000Z",
+                    "EndTime": "2018-04-28T11:04:55.000Z"
+                }
+            },
+            {
+                "ItemID": "222737037855",
+                "ListingDetails": {
+                    "StartTime": "2017-11-29T11:11:11.000Z",
+                    "EndTime": "2018-04-28T11:11:11.000Z"
+                }
+            },
+            {
+                "ItemID": "222816915373",
+                "ListingDetails": {
+                    "StartTime": "2018-01-30T15:38:24.000Z",
+                    "EndTime": "2018-04-30T15:38:24.000Z"
+                }
+            },
+            {
+                "ItemID": "322973011791",
+                "ListingDetails": {
+                    "StartTime": "2018-01-01T22:36:11.000Z",
+                    "EndTime": "2018-05-01T22:36:11.000Z"
+                }
+            }
+        ]
+    },
+    "ReturnedItemCountActual": "65"
+}

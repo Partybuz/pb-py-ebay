@@ -1,0 +1,32 @@
+name: ebay_api_config
+
+# Trading API Sandbox - https://www.x.com/developers/ebay/products/trading-api
+api.sandbox.ebay.com:
+    compatability: 719
+    appid: ChrisMye-Partybuz-SBX-45d7504c4-89bbdb01
+    certid: SBX-5d7504c42b97-6b21-4081-8e19-ba7d
+    devid: 2460a1a0-d4eb-4893-97ec-c0cdd09f499a
+    token: AgAAAA**AQAAAA**aAAAAA**//DBWg**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wFk4ahDJiApwSdj6x9nY+seQ**4ngEAA**AAMAAA**ijxS+nKUzmRd6sngwVwWOJTJY0jmliIzUkk6MTZ5GUEi7lZsE89BeYnjlO5ZN8Yf2VsXrz39HQKvzW5fOPXARxEC15jdz89R+Sduhh+uGrAzX8G3HLgpEItFgJ81SWISs+Oc8hfmGDPyZmq8TSKLpmlPxXpOMYNCYaVCZOltJkVtFb9TWyKDv6CWn1sHeBGLvgDmqbPE2pxRVTjIvfyVFqC2V6FKwyEzf4JAb1NWgeghl26bJBTklVN4PbJKUZOxyjoeUcrYmcUVO9zTdx4tQWLxmqEAUm7a29vF6Tus+f+byNyZGTnxsnJXmhARv5HmJn1W2XGtTNI17w/jplQv42wAk7YGopQnlANxERaS1++JNEsIiseRZhuELMx+/k9pDvjRBB7ZPma+Z+r1d1t4XDw5G72sHGAXjLYsjRC2Q0j+0zlLHIN4xwwnCqhE7DojWZpEFk6gsokI9ZgTvPPX7R5hbD4Sw9r3PHCF5QNlyTjHp++ytM6Zw8mtfBDKa/lYq5VgvioW1Cye/IuDv3cybamUJKnarKixJlwYQri6FNTvlUMGcW3PNzdCADoRyoyqQ+jkJocyDIPHrR846+fnr5TCgz7h2yGrOdM7vN32SaUC95HWidsN2Hlg+8xji50QTtXk+w8QKrEQ+6VMxDkEkGp0oi/7gy4J3V/NDRlNV+RYhab8wQGdmgdNEuoQmbEeukk61YXBxjMhFpKiFfhaWECnYdlAvaIEjp+Za3pr1NNtOd9HnxcTar5peVS8B5l0
+
+# Trading API - https://www.x.com/developers/ebay/products/trading-api
+api.ebay.com:
+    compatability: 719
+    appid: ChrisMye-Partybuz-PRD-1786bc793-84fd7b6e
+    certid: 2460a1a0-d4eb-4893-97ec-c0cdd09f499a
+    devid: 2460a1a0-d4eb-4893-97ec-c0cdd09f499a
+    token: AgAAAA**AQAAAA**aAAAAA**dPXBWg**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wJlYuiDpiDogmdj6x9nY+seQ**PToEAA**AAMAAA**k4xH+Q3qTrhRDwoBMA1T5wekT95BXZImjNLN5+B676q5gWLCvcDojTPk2LxeoTnupaFppEsOP/pHnGOvYXMk8nQ7Hkc7DJRwjCuKPXbSojCVQjEqwZRnAmJevrIpyyoW/7qoJy3/q8XM2/p5aGy78UhO7L0bD0KOMJaiY3mC2DJ4sV1XiMp7ZPtIO/mAypEj92nc8wBeXiXG5vIXeEBQtgACTM61bfD8JecvI8ILYGaM9BOqtP2oc+YhxrwsznGGoU1pATs7CJkyJgujY0Qhsy+TQ8N5VRJ1DFY7H2GObA6CMu3cHZGXDg0yUcNxs9xGQzRK8bXmEm+b1dJBpYK0EfOdsPynd3+0wkBqsVVWOvtLGAXgEnrHhUEapzSyCEWvG51XSctUPJE6Z8sWfE3oOQ947iETHHB/SKIdrtQhKf0EqGAFJO+BsIPZdkvevRA/xOCeLzyKK1BmCVt2Ip9yUcuJlJf2mZN4gjsFuZCddDbbVLvf+HxXXqBRhye5ClxSIGPibb7e39ehSOX6IYrpsx+GZZILjTzCl2WNGoFDDFPMolFzGZ4GyfBwRDDzs75vsnV1zmD915WPThSlkBdCPolxffd7JQXHvAb1kJNCyBmXbp7neocqpP7YBxWqZvJLKL9WugEXhk7hEqVrNr6NEFZ2vdu25lSloWIzFY7oI5GBGi9ci2aCiMNB0xvOwq6102lyk6sBJOAc391ZVsCajjEQvR3brofO61GRFAfhM4qygaJoO+Yy5eZZOShHjkYC
+
+# Finding API - https://www.x.com/developers/ebay/products/finding-api
+svcs.sandbox.ebay.com:
+    appid: ChrisMye-Partybuz-SBX-45d7504c4-89bbdb01
+    version: 1.0.0
+
+# Finding API - https://www.x.com/developers/ebay/products/finding-api
+svcs.ebay.com:
+    appid: ENTER_YOUR_APPID_HERE
+    version: 1.0.0
+
+# Shopping API - https://www.x.com/developers/ebay/products/shopping-api
+open.api.ebay.com:
+    appid: ENTER_YOUR_APPID_HERE
+    version: 671

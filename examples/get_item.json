@@ -1,0 +1,903 @@
+{
+    "Timestamp": "2018-04-02T09:45:05.106Z",
+    "Ack": "Success",
+    "Version": "1047",
+    "Build": "E1047_CORE_API_18630299_R1",
+    "Item": {
+        "AutoPay": "true",
+        "BuyerProtection": "ItemEligible",
+        "BuyItNowPrice": {
+            "_currencyID": "USD",
+            "value": "0.0"
+        },
+        "Country": "GB",
+        "Currency": "GBP",
+        "GiftIcon": "0",
+        "HitCounter": "NoHitCounter",
+        "ItemID": "322935865140",
+        "ListingDetails": {
+            "Adult": "false",
+            "BindingAuction": "false",
+            "CheckoutEnabled": "true",
+            "ConvertedBuyItNowPrice": {
+                "_currencyID": "USD",
+                "value": "0.0"
+            },
+            "ConvertedStartPrice": {
+                "_currencyID": "USD",
+                "value": "1.39"
+            },
+            "ConvertedReservePrice": {
+                "_currencyID": "USD",
+                "value": "0.0"
+            },
+            "HasReservePrice": "false",
+            "StartTime": "2017-12-12T10:36:45.000Z",
+            "EndTime": "2018-04-11T10:36:45.000Z",
+            "ViewItemURL": "http://www.ebay.com/itm/BLING-Party-Decorations-and-Tableware-13th-Birthday-Glitz-Black-/322935865140",
+            "HasUnansweredQuestions": "false",
+            "HasPublicMessages": "false",
+            "ViewItemURLForNaturalSearch": "http://www.ebay.com/itm/BLING-Party-Decorations-and-Tableware-13th-Birthday-Glitz-Black-/322935865140"
+        },
+        "ListingDuration": "GTC",
+        "ListingType": "FixedPriceItem",
+        "Location": "Farnborough",
+        "PaymentMethods": "PayPal",
+        "PayPalEmailAddress": "partybuz2013@gmail.com",
+        "PrimaryCategory": {
+            "CategoryID": "26388",
+            "CategoryName": "Home, Furniture & DIY:Celebrations & Occasions:Party Supplies:Party Tableware"
+        },
+        "PrivateListing": "true",
+        "Quantity": "128",
+        "ReservePrice": {
+            "_currencyID": "USD",
+            "value": "0.0"
+        },
+        "ReviseStatus": {
+            "ItemRevised": "true"
+        },
+        "Seller": {
+            "AboutMePage": "true",
+            "Email": "ebay@partybuz.com",
+            "FeedbackScore": "667",
+            "PositiveFeedbackPercent": "100.0",
+            "FeedbackPrivate": "false",
+            "FeedbackRatingStar": "Purple",
+            "IDVerified": "false",
+            "eBayGoodStanding": "true",
+            "NewUser": "false",
+            "RegistrationDate": "2002-07-05T23:55:01.000Z",
+            "Site": "UK",
+            "Status": "Confirmed",
+            "UserID": "partybuz_ltd",
+            "UserIDChanged": "false",
+            "UserIDLastChanged": "2017-10-16T10:31:06.000Z",
+            "VATStatus": "VATTax",
+            "SellerInfo": {
+                "AllowPaymentEdit": "false",
+                "CheckoutEnabled": "true",
+                "CIPBankAccountStored": "false",
+                "GoodStanding": "true",
+                "LiveAuctionAuthorized": "false",
+                "MerchandizingPref": "OptIn",
+                "QualifiesForB2BVAT": "false",
+                "StoreOwner": "false",
+                "SafePaymentExempt": "true"
+            },
+            "MotorsDealer": "false"
+        },
+        "SellingStatus": {
+            "BidCount": "0",
+            "BidIncrement": {
+                "_currencyID": "GBP",
+                "value": "0.0"
+            },
+            "ConvertedCurrentPrice": {
+                "_currencyID": "USD",
+                "value": "1.39"
+            },
+            "CurrentPrice": {
+                "_currencyID": "GBP",
+                "value": "0.99"
+            },
+            "LeadCount": "0",
+            "MinimumToBid": {
+                "_currencyID": "GBP",
+                "value": "0.99"
+            },
+            "QuantitySold": "9",
+            "ReserveMet": "true",
+            "SecondChanceEligible": "false",
+            "ListingStatus": "Active",
+            "QuantitySoldByPickupInStore": "0"
+        },
+        "ShippingDetails": {
+            "ApplyShippingDiscount": "true",
+            "CalculatedShippingRate": {
+                "WeightMajor": {
+                    "_measurementSystem": "Metric",
+                    "_unit": "kg",
+                    "value": "0"
+                },
+                "WeightMinor": {
+                    "_measurementSystem": "Metric",
+                    "_unit": "gm",
+                    "value": "0"
+                }
+            },
+            "SalesTax": {
+                "SalesTaxPercent": "0.0",
+                "ShippingIncludedInTax": "false"
+            },
+            "ShippingServiceOptions": [
+                {
+                    "ShippingService": "UK_RoyalMailSecondClassStandard",
+                    "ShippingServiceCost": {
+                        "_currencyID": "GBP",
+                        "value": "0.65"
+                    },
+                    "ShippingServiceAdditionalCost": {
+                        "_currencyID": "GBP",
+                        "value": "0.0"
+                    },
+                    "ShippingServicePriority": "1",
+                    "ExpeditedService": "false",
+                    "ShippingTimeMin": "2",
+                    "ShippingTimeMax": "3"
+                },
+                {
+                    "ShippingService": "UK_RoyalMailFirstClassStandard",
+                    "ShippingServiceCost": {
+                        "_currencyID": "GBP",
+                        "value": "2.95"
+                    },
+                    "ShippingServiceAdditionalCost": {
+                        "_currencyID": "GBP",
+                        "value": "0.3"
+                    },
+                    "ShippingServicePriority": "2",
+                    "ExpeditedService": "true",
+                    "ShippingTimeMin": "1",
+                    "ShippingTimeMax": "2"
+                }
+            ],
+            "ShippingType": "Flat",
+            "ThirdPartyCheckout": "false",
+            "ShippingDiscountProfileID": "0",
+            "PromotionalShippingDiscount": "true",
+            "InternationalShippingDiscountProfileID": "0",
+            "PromotionalShippingDiscountDetails": {
+                "DiscountName": "ShippingCostXForAmountY",
+                "ShippingCost": {
+                    "_currencyID": "GBP",
+                    "value": "0.0"
+                },
+                "OrderAmount": {
+                    "_currencyID": "GBP",
+                    "value": "2.0"
+                }
+            },
+            "SellerExcludeShipToLocationsPreference": "true"
+        },
+        "ShipToLocations": "GB",
+        "Site": "UK",
+        "StartPrice": {
+            "_currencyID": "GBP",
+            "value": "0.99"
+        },
+        "TimeLeft": "P9DT51M41S",
+        "Title": "BLING Party Decorations and Tableware for 13th Birthday Glitz - Black",
+        "VATDetails": {
+            "VATPercent": "20.0"
+        },
+        "HitCount": "101",
+        "LocationDefaulted": "true",
+        "BuyerResponsibleForShipping": "false",
+        "PostalCode": "GU14 6YA",
+        "PictureDetails": {
+            "GalleryType": "Gallery",
+            "GalleryURL": "https://i.ebayimg.com/00/s/MTM1MVgxNjAw/z/booAAOSwk-1aL62A/$_57.JPG?set_id=8800005007",
+            "PhotoDisplay": "PicturePack",
+            "PictureURL": "https://i.ebayimg.com/00/s/MTM1MVgxNjAw/z/booAAOSwk-1aL62A/$_57.JPG?set_id=8800005007"
+        },
+        "DispatchTimeMax": "2",
+        "ProxyItem": "false",
+        "BusinessSellerDetails": {
+            "Address": {
+                "Street1": "SU6, Princes Mead",
+                "CityName": "Farnborough",
+                "StateOrProvince": "Hampshire",
+                "CountryName": "United Kingdom",
+                "Phone": "7826524141",
+                "PostalCode": "GU14 6YA",
+                "CompanyName": "Party Buzz",
+                "FirstName": "Nivedita",
+                "LastName": "Myers"
+            },
+            "Email": "ebay@partybuz.com",
+            "TradeRegistrationNumber": "08815194",
+            "LegalInvoice": "true",
+            "VATDetails": {
+                "VATSite": "GB",
+                "VATID": "190145718"
+            }
+        },
+        "BuyerGuaranteePrice": {
+            "_currencyID": "USD",
+            "value": "20000.0"
+        },
+        "IntangibleItem": "false",
+        "ReturnPolicy": {
+            "ReturnsWithinOption": "Days_14",
+            "ReturnsWithin": "14 days",
+            "ReturnsAcceptedOption": "ReturnsAccepted",
+            "ReturnsAccepted": "Returns Accepted",
+            "ShippingCostPaidByOption": "Buyer",
+            "ShippingCostPaidBy": "Buyer"
+        },
+        "Variations": {
+            "Variation": [
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "3.65"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "Cup Cake Stand"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "1.55"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Badge"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "0.99"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Confetti"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "1.85"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Flag Bunting"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.49"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Foil Balloon"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "1.55"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Foil Banner"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.49"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Hanging Decoration"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.49"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Jointed Banner"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "1.79"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Latex Balloons"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.49"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Napkins"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "3.59"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "Paper Plates"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.95"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Pick Candles"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.95"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "Table Cover"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.45"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "HB Cups"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "1.55"
+                    },
+                    "Quantity": "6",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13 Badge"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "1",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "1.65"
+                    },
+                    "Quantity": "6",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13 Candle"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "1",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "0.99"
+                    },
+                    "Quantity": "6",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13 Confetti"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "1",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "1.55"
+                    },
+                    "Quantity": "6",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13 Foil Banner"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "2",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "1.85"
+                    },
+                    "Quantity": "6",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13 Flag Bunting"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "1",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.49"
+                    },
+                    "Quantity": "6",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13 Hanging Decoration"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "1",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "1.79"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13th Latex Balloons"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.49"
+                    },
+                    "Quantity": "6",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13 Napkins"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "1",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "2.49"
+                    },
+                    "Quantity": "5",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13 Foil Balloon"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "0",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                },
+                {
+                    "StartPrice": {
+                        "_currencyID": "GBP",
+                        "value": "3.29"
+                    },
+                    "Quantity": "6",
+                    "VariationSpecifics": {
+                        "NameValueList": {
+                            "Name": "Type",
+                            "Value": "13 Table Centre"
+                        }
+                    },
+                    "SellingStatus": {
+                        "QuantitySold": "1",
+                        "QuantitySoldByPickupInStore": "0"
+                    },
+                    "VariationProductListingDetails": {
+                        "EAN": "Does not apply"
+                    }
+                }
+            ],
+            "Pictures": {
+                "VariationSpecificName": "Type",
+                "VariationSpecificPictureSet": [
+                    {
+                        "VariationSpecificValue": "13 Badge",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/pL4AAOSwfVhaL7AF/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "13 Candle",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTM0N1gxMTQz/z/lMcAAOSwK~RaL62~/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "13 Confetti",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTI2MFgxNTAw/z/cgQAAOSwTm9aL63D/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "13 Foil Banner",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/awEAAOSwiHpaL63I/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "13 Flag Bunting",
+                        "PictureURL": "https://i.ebayimg.com/00/s/NDQ2WDM2MA==/z/LSYAAOSwcj1aL63L/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "13 Hanging Decoration",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTUwMFgxMDgz/z/Mx8AAOSw7z1aL63T/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "13th Latex Balloons",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/hskAAOSwUoNaL63k/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "13 Napkins",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/WF4AAOSw3WxaL637/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "13 Foil Balloon",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTM0NlgxNDQ1/z/CNUAAOSwETJaL64J/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "13 Table Centre",
+                        "PictureURL": "https://i.ebayimg.com/00/s/OTU1WDEwMDU=/z/N0EAAOSw7z1aL68l/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "Flashing Cake Decoration",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTA2OFgxMDAw/z/qK8AAOSw9gRaL68z/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Confetti",
+                        "PictureURL": "https://i.ebayimg.com/00/s/NTAwWDQyNA==/z/mdkAAOSwYVlaL683/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Badge",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/PHIAAOSwCMFaL69G/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "Cup Cake Stand",
+                        "PictureURL": [
+                            "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/5bwAAOSwTmtaL69S/$_57.JPG?set_id=8800005007",
+                            "https://i.ebayimg.com/00/s/NTAwWDM3NQ==/z/c-QAAOSwQS1aL69T/$_57.JPG?set_id=8800005007"
+                        ]
+                    },
+                    {
+                        "VariationSpecificValue": "HB Flag Bunting",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTUwMFgxMjEw/z/6DUAAOSwvTpaL694/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Foil Balloon",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTM0NlgxNDQ1/z/Q5cAAOSwEZdaL64W/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Foil Banner",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/wHIAAOSwsYpaL6-B/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Hanging Decoration",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTUwMFgxMDgy/z/5GgAAOSwXPNaL6-J/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Jointed Banner",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTYyWDEwMDA=/z/BiwAAOSw-xVaL6-P/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Latex Balloons",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/YnkAAOSwWHBaL6-m/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Napkins",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTUwMFgxNTAw/z/5xYAAOSwTmtaL6-z/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "Paper Plates",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTM1MFgxMzUw/z/m6AAAOSwYVlaL6-6/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Cups",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTIzOFgxMDQy/z/gTsAAOSwSeVaL6-~/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "Table Cover",
+                        "PictureURL": "https://i.ebayimg.com/00/s/MTI3NVg4MjU=/z/2JQAAOSw-wJaL6~F/$_57.JPG?set_id=8800005007"
+                    },
+                    {
+                        "VariationSpecificValue": "HB Pick Candles",
+                        "PictureURL": [
+                            "https://i.ebayimg.com/00/s/MTA3NVg5OTk=/z/LM8AAOSwZB9aL6~T/$_57.JPG?set_id=8800005007",
+                            "https://i.ebayimg.com/00/s/MTA2NVgxNDQz/z/fwcAAOSwEOpaL6~V/$_57.JPG?set_id=8800005007"
+                        ]
+                    }
+                ]
+            },
+            "VariationSpecificsSet": {
+                "NameValueList": {
+                    "Name": "Type",
+                    "Value": [
+                        "13 Badge",
+                        "13 Candle",
+                        "13 Confetti",
+                        "13 Foil Banner",
+                        "13 Flag Bunting",
+                        "13 Hanging Decoration",
+                        "13th Latex Balloons",
+                        "13 Napkins",
+                        "13 Foil Balloon",
+                        "13 Table Centre",
+                        "Flashing Cake Decoration",
+                        "HB Confetti",
+                        "HB Badge",
+                        "Cup Cake Stand",
+                        "HB Flag Bunting",
+                        "HB Foil Balloon",
+                        "HB Foil Banner",
+                        "HB Hanging Decoration",
+                        "HB Jointed Banner",
+                        "HB Latex Balloons",
+                        "HB Napkins",
+                        "Paper Plates",
+                        "HB Cups",
+                        "Table Cover",
+                        "HB Pick Candles"
+                    ]
+                }
+            }
+        },
+        "ConditionID": "1000",
+        "ConditionDisplayName": "New",
+        "PostCheckoutExperienceEnabled": "false",
+        "SellerProfiles": {
+            "SellerShippingProfile": {
+                "ShippingProfileID": "121312846015",
+                "ShippingProfileName": "Partybuz Policy minimum spend \u00a32"
+            },
+            "SellerReturnProfile": {
+                "ReturnProfileID": "109472279015",
+                "ReturnProfileName": "Partybuz return policy"
+            },
+            "SellerPaymentProfile": {
+                "PaymentProfileID": "99438398015",
+                "PaymentProfileName": "PayPal PartyBuz"
+            }
+        },
+        "ShippingPackageDetails": {
+            "ShippingIrregular": "true",
+            "ShippingPackage": "LargeEnvelope",
+            "WeightMajor": {
+                "_measurementSystem": "Metric",
+                "_unit": "kg",
+                "value": "0"
+            },
+            "WeightMinor": {
+                "_measurementSystem": "Metric",
+                "_unit": "gm",
+                "value": "0"
+            }
+        },
+        "RelistParentID": "322935825017",
+        "HideFromSearch": "false",
+        "eBayPlus": "false",
+        "eBayPlusEligible": "false",
+        "IsSecureDescription": "true"
+    }
+}
